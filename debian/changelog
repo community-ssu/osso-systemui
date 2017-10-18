@@ -1,3 +1,9 @@
+osso-systemui (0.2.0.20) unstable; urgency=low
+
+  * Bump version number so its not the same as the stock package
+
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Wed, 18 Oct 2017 08:38:22 -0400
+
 osso-systemui (0.2.0.19) unstable; urgency=low
 
   * Initial RE version.
